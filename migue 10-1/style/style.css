@@ -1,0 +1,40 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+flex-direction: column;
+
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}  
+
+*{
+    font-family: 'Bruno Ace SC', cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: rgb(148, 5, 5);
+}
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 50px;
+}
+button{
+    color: rgb(255, 255, 255);
+    border-radius: 40px;
+}
+.show{
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.btns{
+    padding: 40px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
